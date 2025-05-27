@@ -1,2 +1,2 @@
 "# jenkins-ci-pipeline" 
-## Updated for Jenkins trigger demo 1
+## Updated for Jenkins trigger demo 2
